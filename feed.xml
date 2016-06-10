@@ -6,9 +6,497 @@
 </description>
     <link>http://jmbeach.github.io/TCF112-900/</link>
     <atom:link href="http://jmbeach.github.io/TCF112-900/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jun 2016 23:40:06 -0500</pubDate>
-    <lastBuildDate>Thu, 02 Jun 2016 23:40:06 -0500</lastBuildDate>
+    <pubDate>Thu, 09 Jun 2016 21:51:31 -0500</pubDate>
+    <lastBuildDate>Thu, 09 Jun 2016 21:51:31 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Editing Video Lecture</title>
+        <description>&lt;script&gt;
+$(function() {
+  new AudioNavigator({
+    videoId: &quot;170110021&quot;
+  });
+})
+&lt;/script&gt;
+
+&lt;h1 id=&quot;editing&quot;&gt;Editing&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:10.093549&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Close up&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;1910 - 1900&lt;/li&gt;
+  &lt;li&gt;(Russian guy) figured out how to use editing to use editing to evoke emotion&lt;/li&gt;
+  &lt;li&gt;The Kuleshov Effect
+    &lt;ul&gt;
+      &lt;li&gt;People perceive a different emotion from an actor’s face (even the same face) depending on what happened right before&lt;/li&gt;
+      &lt;li&gt;Audio 0:03:03.708193&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;linguistic-analogy&quot;&gt;Linguistic Analogy&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Two words
+    &lt;ul&gt;
+      &lt;li&gt;Person&lt;/li&gt;
+      &lt;li&gt;Car&lt;/li&gt;
+      &lt;li&gt;EX:
+        &lt;ul&gt;
+          &lt;li&gt;car person is different from person car&lt;/li&gt;
+          &lt;li&gt;car hits person&lt;/li&gt;
+          &lt;li&gt;person hits car&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Following up a shot with faces
+    &lt;ul&gt;
+      &lt;li&gt;We can see emotion on actors’ faces that we might not have been able to perceive
+        &lt;ul&gt;
+          &lt;li&gt;Audio 0:04:43.521021&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;The physical space that the characters inhabit don’t even have to be the same or even the same day&lt;/li&gt;
+      &lt;li&gt;Audio 0:05:16.120241&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mrs-bares-4th-grade-movie-1989&quot;&gt;Mrs. Bares 4th Grade Movie (1989)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;How does editing create a sense of space in the viewer’s mind&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When does it not work?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Kid in pharmacy
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:06:12.200216&lt;/li&gt;
+      &lt;li&gt;Harsh cut from kid picking up rocks to putting them down somewhere else&lt;/li&gt;
+      &lt;li&gt;The dimming of the lights almost worked to make the stuff disapear
+        &lt;ul&gt;
+          &lt;li&gt;Audio 0:07:17.172563&lt;/li&gt;
+          &lt;li&gt;The cut in from the left was jarring&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Shots from above and below for no apparent reason&lt;/li&gt;
+      &lt;li&gt;Actions happening more than once&lt;/li&gt;
+      &lt;li&gt;Audio 0:08:24.610822&lt;/li&gt;
+      &lt;li&gt;Some shots don’t even look like their in the same room&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Most modern film never breaks continuity
+    &lt;ul&gt;
+      &lt;li&gt;Helps immersion&lt;/li&gt;
+      &lt;li&gt;Audio 0:10:34.269867&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Filmmakers learned that they can put the viewer anywhere in relation to what’s happening and the characters
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:11:29.307681&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In modern film, you lose yourself&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;continuity-editing&quot;&gt;Continuity Editing&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;There are some editing choices that purposefully break continuity
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:12:46.317721&lt;/li&gt;
+      &lt;li&gt;Soviet filmmakers learned the power of juxtaposing images
+        &lt;ul&gt;
+          &lt;li&gt;This peaked between 1919 and 1929
+            &lt;ul&gt;
+              &lt;li&gt;Stopped because
+                &lt;ul&gt;
+                  &lt;li&gt;Introduction of sound to movies&lt;/li&gt;
+                  &lt;li&gt;Stopped being about what message the movie communicated&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Montages
+    &lt;ul&gt;
+      &lt;li&gt;Citizen Kane
+        &lt;ul&gt;
+          &lt;li&gt;Dramas, comedies, documentaries, etc&lt;/li&gt;
+          &lt;li&gt;Sum up action over long periods of time&lt;/li&gt;
+          &lt;li&gt;Audio 0:15:22.832436&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Different from very short scenes
+        &lt;ul&gt;
+          &lt;li&gt;Uses music as a bridge&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;shot-choice-and-editing-scheme-is-usually-determined-before-production&quot;&gt;Shot choice and editing scheme is usually determined before production&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What choices does the editor make?&lt;/li&gt;
+  &lt;li&gt;Audio 0:16:36.052360
+    &lt;ul&gt;
+      &lt;li&gt;Walter Murch&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Needs a sense of rythem
+    &lt;ul&gt;
+      &lt;li&gt;Like a joke
+        &lt;ul&gt;
+          &lt;li&gt;If you tell a joke with bad rythm, the joke falls flat&lt;/li&gt;
+          &lt;li&gt;It’s like dance
+            &lt;ul&gt;
+              &lt;li&gt;You have to dance to learn to dance&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:17:57.116818
+    &lt;ul&gt;
+      &lt;li&gt;Editor has large control of time
+        &lt;ul&gt;
+          &lt;li&gt;Chooses when to cut to another shot&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Pacing of film could talk about the length of time of the plot or the speed of cuts
+        &lt;ul&gt;
+          &lt;li&gt;You can have slow plot pace, with fast editing pace&lt;/li&gt;
+          &lt;li&gt;Audio 0:19:50.480456&lt;/li&gt;
+          &lt;li&gt;The average shot length has dropped dramatically&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-are-shots-getting-shorter&quot;&gt;Why are shots getting shorter?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:15.481498&lt;/li&gt;
+  &lt;li&gt;Increasing reliance on certain types of shots might be to blame
+    &lt;ul&gt;
+      &lt;li&gt;OTS
+        &lt;ul&gt;
+          &lt;li&gt;over-the-shoulder&lt;/li&gt;
+          &lt;li&gt;has increased in frequency dramatically&lt;/li&gt;
+          &lt;li&gt;has decreased in duration&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:22:40.346554
+    &lt;ul&gt;
+      &lt;li&gt;Ex: POV edit&lt;/li&gt;
+      &lt;li&gt;What are they looking at?&lt;/li&gt;
+      &lt;li&gt;Oh that’s what they’re looking at
+        &lt;ul&gt;
+          &lt;li&gt;In some ways, we are identifying with the camera&lt;/li&gt;
+          &lt;li&gt;What perspective do we take?
+            &lt;ul&gt;
+              &lt;li&gt;Are we more likely to take a male’s or female’s perspective?
+                &lt;ul&gt;
+                  &lt;li&gt;Not the same as asking are there more men than women in film&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Filmmakers don’t show us an even mix of men and women
+        &lt;ul&gt;
+          &lt;li&gt;There is a tendency of filmmakers to show us women from the perspective of a heterosexual man in a POV shot
+            &lt;ul&gt;
+              &lt;li&gt;This is not all shots in film of course&lt;/li&gt;
+              &lt;li&gt;Audio 0:25:59.224757&lt;/li&gt;
+              &lt;li&gt;Women are often shown just to look good&lt;/li&gt;
+              &lt;li&gt;There is a preference to show things from the point of view of a heterosexual man
+                &lt;ul&gt;
+                  &lt;li&gt;Maybe it is because many of filmmakers have been just that&lt;/li&gt;
+                  &lt;li&gt;Or maybe it’s because most of the audience is&lt;/li&gt;
+                  &lt;li&gt;Audio 0:27:18.556558&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;The act of observing seems innocent
+        &lt;ul&gt;
+          &lt;li&gt;Maybe not
+            &lt;ul&gt;
+              &lt;li&gt;Especially when the observer can’t look back&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Alfred Hitchcock was good at making people feel uneasy with editing&lt;/li&gt;
+          &lt;li&gt;Audio 0:29:05.841157&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 09 Jun 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/TCF112-900/2016/06/09/editing-video-lecture.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/TCF112-900/2016/06/09/editing-video-lecture.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mise En Scene &amp; Cinematography Video Lecture</title>
+        <description>&lt;script&gt;
+$(function() {
+  new AudioNavigator({
+    videoId: &quot;169792568&quot;
+  });
+})
+&lt;/script&gt;
+
+&lt;h1 id=&quot;module-3&quot;&gt;Module 3&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Film could have been used for anything
+    &lt;ul&gt;
+      &lt;li&gt;For a variety of reasons
+        &lt;ul&gt;
+          &lt;li&gt;Film production quickly became standardized primarily to tell fictional stories&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;storytelling&quot;&gt;Storytelling&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Humans have been telling stories forever&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mise-en-scene&quot;&gt;Mise en Scene&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What’s in the frame&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cinematography&quot;&gt;Cinematography&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;tell a story&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How do we know what to put in the frame&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;How do you depict the frame?
+        &lt;ul&gt;
+          &lt;li&gt;Close up?&lt;/li&gt;
+          &lt;li&gt;Far away?&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;As realistic as possible?
+        &lt;ul&gt;
+          &lt;li&gt;Or fantastic&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mise-en-scene-1&quot;&gt;Mise en Scene&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What setting do we choose?
+    &lt;ul&gt;
+      &lt;li&gt;Obvious answer: Something pleasing&lt;/li&gt;
+      &lt;li&gt;Another answer
+        &lt;ul&gt;
+          &lt;li&gt;Novel or unusual settings&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What if the goal is to increase the sense that what they are seeing is real?
+    &lt;ul&gt;
+      &lt;li&gt;Then the pleasingness of the environment doesn’t matter as much&lt;/li&gt;
+      &lt;li&gt;A set that mimics the settings that the characters would inhabit would be best&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ex: Scene from Forest Gump
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:06:40.866999&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Where to film?
+    &lt;ul&gt;
+      &lt;li&gt;On location?&lt;/li&gt;
+      &lt;li&gt;Simulated?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Before the invention of sound in film, extraneous sounds were not a problem, but later it would be a big one
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:07:54.625824&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Studio shooting became common practice eventually&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Filmmakers in the US incorporated on location filming in the 60s&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Eventually using computers has become increasing Popular&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How do we show the action?&lt;/li&gt;
+  &lt;li&gt;Objective view shot
+    &lt;ul&gt;
+      &lt;li&gt;Shows what’s going on primarily&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Subjective
+    &lt;ul&gt;
+      &lt;li&gt;Through the eyes of one of the characters&lt;/li&gt;
+      &lt;li&gt;Audio 0:09:32.552096&lt;/li&gt;
+      &lt;li&gt;(POV) point-of-view shot
+        &lt;ul&gt;
+          &lt;li&gt;We only know it’s a POV shot in combination with an objective shot&lt;/li&gt;
+          &lt;li&gt;Lets us participate in the film&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How far away from the characters do we want to be?
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:10:30.006817&lt;/li&gt;
+      &lt;li&gt;Filmmakers often use close-ups of characters to let us know what they are thinking&lt;/li&gt;
+      &lt;li&gt;Close-ups can also be used to draw attention to an important object&lt;/li&gt;
+      &lt;li&gt;Useful way to draw attention&lt;/li&gt;
+      &lt;li&gt;Medium shot
+        &lt;ul&gt;
+          &lt;li&gt;Best of both worlds&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Long shots
+        &lt;ul&gt;
+          &lt;li&gt;Ideal for showing the larger spacial areas where actions take place
+            &lt;ul&gt;
+              &lt;li&gt;Helps orient people to the scene before the scene really begins&lt;/li&gt;
+              &lt;li&gt;Audio 0:12:37.770917&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Can convey isolation or other feelings&lt;/li&gt;
+          &lt;li&gt;Can also be used to show scale&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Depth of field
+    &lt;ul&gt;
+      &lt;li&gt;The extent to which the viewer perceives the scene to have depth&lt;/li&gt;
+      &lt;li&gt;In order to make the images on the screen come to life, it helps to create the illusion of depth&lt;/li&gt;
+      &lt;li&gt;Putting things in the foreground, mid-ground, and background help create the illusion of depth-of-field&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Level of camera
+    &lt;ul&gt;
+      &lt;li&gt;Eye Level
+        &lt;ul&gt;
+          &lt;li&gt;most common&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Low angle
+        &lt;ul&gt;
+          &lt;li&gt;Can show the object to be powerful&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;High angle
+        &lt;ul&gt;
+          &lt;li&gt;Can show powerlessness&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Audio 0:15:25.139726&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cinematography-1&quot;&gt;Cinematography&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Color
+    &lt;ul&gt;
+      &lt;li&gt;In the 1940’s and 50’s, they used technicolor
+        &lt;ul&gt;
+          &lt;li&gt;Didn’t look very real&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Eastmancolor 1950’s - 2000’s
+        &lt;ul&gt;
+          &lt;li&gt;Film is an art and a business
+            &lt;ul&gt;
+              &lt;li&gt;Low costs will prevail&lt;/li&gt;
+              &lt;li&gt;Audio 0:17:44.219855&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Film is not just trying to re-create reality&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Movement
+    &lt;ul&gt;
+      &lt;li&gt;Camera and people&lt;/li&gt;
+      &lt;li&gt;camera
+        &lt;ul&gt;
+          &lt;li&gt;panning&lt;/li&gt;
+          &lt;li&gt;Tilting
+            &lt;ul&gt;
+              &lt;li&gt;Both can be used to mimic a person’s head bobbing while moving&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Tracking shots
+            &lt;ul&gt;
+              &lt;li&gt;When the whole camera actually moves&lt;/li&gt;
+              &lt;li&gt;Can provide more visual information and depth of field.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Overly-complex camera movements can feel unreal to viewers
+            &lt;ul&gt;
+              &lt;li&gt;The filmmaker has to find a balance&lt;/li&gt;
+              &lt;li&gt;Audio 0:20:43.078934&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Citizen Kane (1941)
+    &lt;ul&gt;
+      &lt;li&gt;Influenced visual and narrative form of subsequent films&lt;/li&gt;
+      &lt;li&gt;Pay attention to:
+        &lt;ul&gt;
+          &lt;li&gt;Order of events as presented in film’s plot/syuzet&lt;/li&gt;
+          &lt;li&gt;From who’s perspective we get information&lt;/li&gt;
+          &lt;li&gt;The way lighting is used&lt;/li&gt;
+          &lt;li&gt;Depth of field&lt;/li&gt;
+          &lt;li&gt;Audio 0:21:49.554470&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 07 Jun 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/TCF112-900/2016/06/07/mise-en-scene-cinematography-video-lecture.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/TCF112-900/2016/06/07/mise-en-scene-cinematography-video-lecture.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Narrative Video Lecture</title>
