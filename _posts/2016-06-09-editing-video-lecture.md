@@ -3,6 +3,14 @@ layout: post
 title: Editing Video Lecture
 ---
 
+<script>
+$(function() {
+  new AudioNavigator({
+    videoId: "170110021"
+  });
+})
+</script>
+
 # Editing
 + Audio 0:01:10.093549
 + Close up
@@ -113,4 +121,4 @@ title: Editing Video Lecture
     + Maybe not
       + Especially when the observer can't look back
     + Alfred Hitchcock was good at making people feel uneasy with editing
-    + Audio 0:29:05.841157 
+    + Audio 0:29:05.841157
