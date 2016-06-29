@@ -1,0 +1,1 @@
+Like the acting in a silent film, the acting in George Miller's dialog-sparse, Mad Max: Fury Road, relies on exuberant facial expressions and body movements to convey emotion. For example in [the wives scene](http://nyti.ms/1IAYbl9), 
