@@ -14,39 +14,54 @@ $(function() {
 ## Steve Jobs Film
 
 ### Was the film truthful?
+
 Audio 0:03:22.186089
+
 + The director does not see his job as one that needs to be truthful
   + "I am not a journalist"
+
 Audio 0:04:16.908463
+
 + It's an abstraction of the truth
 + It's a heightened version of real life
+
 Audio 0:04:52.302420
+
 + If someone came up to the director and asked him, "Does your movie capture Steve Jobs?"
   + He said "I'd be very surprised if I did"
   + I only spoke to him on the phone three times
   + I never met them
 + A character is a tool
+
 Audio 0:07:15.707941
+
 + The director did not try to "capture" Steve Jobs
 
 ### Whose job is it to tell the truth?
+
 Audio 0:08:10.374569
+
 + Photography captures fact
 + Painting captures feeling
 + Where do documentaries fit in?
 + It would be crappy to try to watch live cameras all the time
+
 Audio 0:09:14.360104
+
 + A movie uses tools like plot to enhance real life
 + Doesn't capture reality
   + Captures attention
 
 ### Reality-Based Motion Pictures = Truth?
 + The camera was quickly recognized as a story-telling tool
+
 Audio 0:10:37.643349
+
 + When cameras first became popular, it was enough just to show people real life
   + This quickly wore off
 
 Audio 0:11:33.105003
+
 + Documentaries, like movies, create a plot
 + Don't immediately answer every question
 + Make you emotionally attached to the documented person or idea
